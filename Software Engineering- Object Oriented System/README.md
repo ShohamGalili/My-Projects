@@ -1,6 +1,8 @@
+
 In this Java Code, I implement an Object-Oriented System for Barabershop Management by Barbershop employees.
 
-Employees can add customers to the system, delete and sort by name or service.
+
+   Employees can add customers to the system, delete and sort by name or service.
 
 Additionally, They can manage thier barbershop day, add services, etc.
 
