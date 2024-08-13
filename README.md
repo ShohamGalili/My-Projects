@@ -21,7 +21,8 @@ To explore these projects:
 
 ## Contact
 
-If you have any questions or would like to discuss any of these projects, feel free to reach out to me at [shoahmgalili1@gmail.com](mailto:shoahmgalili1@gmail.com).
+If you have any questions or would like to discuss any of these projects, 
+feel free to reach out to me at [shoahmgalili1@gmail.com](mailto:shoahmgalili1@gmail.com).
 
 ## Enjoy Exploring!
 
