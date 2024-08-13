@@ -1,18 +1,18 @@
+Barbershop Management System
+Welcome to the Barbershop Management System! This system allows barbershop employees to efficiently manage customers, services, and their daily operations.
 
-In this Java Code, I implement an Object-Oriented System for Barabershop Management by Barbershop employees.
+Features
+Customer Management: Add, delete, and sort customers by name or service.
+Service Management: Manage the list of services offered by the barbershop.
+Daily Operations: Organize and manage the barbershop’s daily activities.
+How to Run the Application
+Locate the Main File:
 
+To start the application, open the file BarberShopHomePageGUI.java located in the BarberShopGUI package.
+Ensure Images and Backgrounds Are Accessible:
 
-   Employees can add customers to the system, delete and sort by name or service. Additionally, They can manage thier barbershop day, add services, etc.
+All images and backgrounds used in the User Interface (UI) must be in the correct file paths as specified in the code. Please make sure these resources are in the appropriate directories.
+Load the Service List:
 
--How to run the code?
-
-
-In order to run the code, open the file: BarberShopHomePageGUI found in Package: BarberShopGUI.
-
-All the backgrounds and images that appear in the UI will only work if they are in the path that appears in the code.
-
-There is a file called servicelist.txt in which there is a list of treatments of the hairdresser,
-and it will also appear correctly only if it is loaded according to the path saved in the code.
-
-Enjoy!
-
+The application includes a list of hairdressing services stored in servicelist.txt. This file must also be in the correct location as per the path specified in the code for the services to display correctly.
+Enjoy Managing Your Barbershop!
